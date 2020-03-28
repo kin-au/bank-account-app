@@ -7,27 +7,13 @@ Built as a personal project in summer 2019 whilst self-learning web development,
 Try it out here: https://kin-au.github.io/bank-account-app/
 
 ### Features:
-
-##### Display current balance:
-
 - shows the user their current bank account balance
-
-##### Display overdraft:
-
 - shows the user their current overdraft balance
-
-##### Display overdraft limit:
-
 - shows the user their current overdraft limit
-
-##### Deposit money:
-
 - enables the user to deposit an amount to their current account
-
-##### Withdraw money:
-
 - enables the user to withdraw an amount from their current account
-
-##### Change overdraft limit:
-
 - enables the user to change their overdraft limit, which will be reflected on the display
+- does not allow the user to submit empty form fields
+- does not allow the user to withdraw more than the available funds (current balance + overdraft limit)
+- does not allow the user to set the overdraft limit to greater than £1000
+- does not allow the user to set the overdraft limit to less than the current overdraft amount
