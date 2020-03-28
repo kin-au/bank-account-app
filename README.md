@@ -4,7 +4,7 @@
 
 Built as a personal project in summer 2019 whilst self-learning web development, using vanilla HTML, CSS and JavaScript
 
-Try it out here: https://kin-au.github.io/bank-account-app/
+Try it out here: https://kin-au.github.io/bank-account-app
 
 ### Features:
 - shows the user their current bank account balance
